@@ -29,7 +29,7 @@ openssl rand -base64 32 | sha256sum
 ```
 
 ```bash
-bash <(wget -qO- https://raw.githubusercontent.com/Jacinaldo/Api-whatsapp-node/main/install.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/Jacinaldo/Api-whatsapp/main/install.sh)
 ```
 
 Verificar se está instalado e executado com sucesso só executar o comando.
